@@ -102,3 +102,6 @@ subj-3	7118716	claude-opus-5[1m]	0.374	8	87	7	16819	3	6859	3053	15861	84380	port
 gemini-1	80d053e+dirty	claude-opus-5[1m]	0.488	10	110	9	18925	3	8253	4113	22157	116635	portrait 24, wide 20, sky 9	0	12389
 gemini-2	80d053e+dirty	claude-opus-5[1m]	0.365	8	91	7	13952	3	6957	3733	14901	81492	portrait 24, wide 22, sky 10	0	9178
 gemini-3	80d053e+dirty	claude-opus-5[1m]	0.420	10	110	9	13885	2	8514	4153	14876	114749	portrait 23, wide 20, sky 9	0	7255
+assets-1	02c585d+dirty	claude-opus-5[1m]	0.294	4	71	3	8062	1	5780	3267	13678	22406	portrait 24, wide 20, sky 10	0	3905
+assets-2	02c585d+dirty	claude-opus-5[1m]	0.448	10	122	9	16139	1	9039	4594	16386	114119	portrait 26, wide 22, sky 10	0	8994
+assets-3	02c585d+dirty	claude-opus-5[1m]	0.366	7	109	6	10962	1	8049	4519	13208	63017	portrait 24, wide 20, sky 12	0	5888
