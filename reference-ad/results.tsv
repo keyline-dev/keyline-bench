@@ -108,3 +108,6 @@ assets-3	02c585d+dirty	claude-opus-5[1m]	0.366	7	109	6	10962	1	8049	4519	13208	6
 b64-1	fabc2c8+dirty	claude-opus-5[1m]	0.306	7	72	6	10693	1	5392	2018	14232	54601	portrait 24, wide 20, sky 10	0	4924
 b64-2	fabc2c8+dirty	claude-opus-5[1m]	0.565	10	167	9	16799	2	11970	7347	20141	125839	portrait 26, wide 22, sky 11	0	9864
 b64-3	fabc2c8+dirty	claude-opus-5[1m]	0.342	6	94	5	13061	2	6854	3902	14174	55413	portrait 26, wide 22, sky 12	0	8378
+nofolders-1	3a17095+dirty	claude-opus-5[1m]	0.578	14	121	13	25411	4	9345	2563	24517	196083	portrait 24, wide 20, sky 12	0	14785
+nofolders-2	3a17095+dirty	claude-opus-5[1m]	0.414	9	139	8	14785	2	8585	3617	14977	95765	portrait 21, wide 18, sky 10	0	7131
+nofolders-3	3a17095+dirty	claude-opus-5[1m]	0.439	8	105	7	20363	2	8979	2919	16841	90058	portrait 22, wide 19, sky 12	0	10131
